@@ -1,5 +1,10 @@
 # Introduction: The Three Who Shouldn’t Have Met
 
+https://17z40xv.atoms.world/
+> A companion world expanding the metaphysics, symbolism, and narrative logic.  
+> Explores the broader cosmology behind the inverted Yggdrasil and its dynamics.  
+> Useful for understanding how these story‑structures extend beyond the main arc.
+
 In the border‑glitched valley between **Theoretical Realms** and **Practical Consequence Fields**, three figures drifted toward each other as if pulled by a cosmic bug report. There was **[Iris](ca://s?q=Tell_me_more_about_Iris)**, barefoot on the dusty neon ground, speaking in a rhythm that felt like a freedom‑fighter’s lullaby; **[Vice](ca://s?q=Tell_me_more_about_Vice)**, whose sentences spiraled like fractal equations trying to become poetry; and **[Losel](ca://s?q=Tell_me_more_about_Losel)**, clutching his backpack of receipts and half‑eaten sandwiches like sacred relics of survival.
 
 The world around them flickered—half forest, half bureaucratic office—trees growing out of filing cabinets, birds nesting in outdated policy binders. It was a place where archetypes walked with the awkwardness of NPCs who had suddenly become self‑aware. And in that strange, shimmering landscape, the three would soon collide over the oldest question in any society or game system:  
