@@ -7,6 +7,11 @@ The world around them flickered—half forest, half bureaucratic office—trees 
 
 # Part 1: The Presentation That Shouldn’t Have Been
 
+[part1.md](./part1.md)
+> The beginning of the conflict: three incompatible definitions of “work” collide.  
+> Survival logic, compassion logic, and meaning logic clash in a broken amphitheater.  
+> The world reacts to their beliefs, revealing the first cracks in the system.
+
 The sun over the valley blinked like a faulty cursor, and the three travelers found themselves standing before a half‑collapsed amphitheater made of moss, marble, and office cubicle dividers. A sign flickered above the entrance:  
 **“MANDATORY PRESENTATION ON LABOR RELATIONS — Attendance: Everyone.”**
 
@@ -55,6 +60,11 @@ The absurdity deepened.
 And the question of who worked for whom—if anyone worked for anyone at all—was about to spiral into something far stranger.
 
 # Part 2: The Spiral of Work, Non‑Work, and Whatever Lies Between
+
+[part2.md](./part2.md)
+> The tension escalates as the universe mirrors their misunderstandings.  
+> Losel’s survival‑based worldview destabilizes the environment itself.  
+> Iris and Vice try to clarify intention, direction, and responsibility — but fail to align.
 
 The amphitheater’s holographic podium flickered, then stabilized into a shimmering column of light. Vice stepped toward it, but the moment his foot touched the first moss‑covered stair, the entire structure rippled like a disturbed pond. Strange glyphs appeared in the air—half runes, half bureaucratic icons—floating like confused spirits of abandoned paperwork.
 
@@ -114,6 +124,11 @@ And the universe seemed to whisper:
 **This is only the beginning.**
 
 # Part 3: The Law According to Losel, and the Consequence According to Everyone Else
+
+[part3.md](./part3.md)
+> Vice delivers the decisive correction: intention defines obligation, not suffering.  
+> Losel’s worldview collapses under its own contradictions, and the world stabilizes.  
+> Iris grounds the truth in compassion, allowing the inverted Yggdrasil to stop falling.
 
 The amphitheater darkened as if the sky had pulled a hood over its head.  
 A low hum rose from the ground—half electricity, half collective sigh of a universe tired of being misunderstood.  
@@ -177,6 +192,11 @@ And the universe whispered again:
 **This is almost the end.**
 
 # Conclusion: The World After the Words
+
+[ref.md](./ref.md)
+> A map of historic archetypes, mythic parallels, and strategic “games” behind the story.  
+> Links to psychology, game theory, Taoism, Norse myth, and classic literature.  
+> A guide for deeper study of survival logic, meaning‑making, and relational freedom.
 
 When the amphitheater finally exhaled—lights dimming, glyphs dissolving like dew—the three stood in a silence that felt almost sacred. The universe had spoken, Vice had clarified, Iris had soothed, and Losel had trembled on the edge of understanding.
 
