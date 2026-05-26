@@ -1,3 +1,17 @@
+# Fuck the Police
+
+This is simple story.
+
+What "fucks the police" - if they attribute fame, power and money of another, and present this; slowly the reality fucks them - they become wrong, useless, and quantum effects create negative "motivation".
+
+In this story, Vince told them "I would do to you what you would do to me";
+- He is accused in not seeing behind this thing, but rather commiting heavy crime - police is sure, "doing like us" involves rather material death crimes than such small things;
+  - Vince argues it's rather about his karmic effects and moving away for them, but police is sure:
+    - Definitely, "legally doing like us" involves details you do not know, which makes it criminal in any case;
+    - because you do not understand who is the high class.
+
+Vince, indeed, is law and business genius - and every time when beaten, it's like war strategy genius. His plan is wu wei: as natural consequence, it's kind of doing them "what they did to me", for example falsely reported money generates feelings of loss as big as much was taken away.
+
 # Part 1 — Introduction: The Realm of the Hostel
 
 In a narrow district of an unnamed coastal city, where the streets bent like old arguments and the air carried the scent of salt and bureaucracy, stood a small hostel. It was the kind of place where people arrived with ambitions and left with stories, and where the walls remembered more than the guests ever would.
