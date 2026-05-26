@@ -23,6 +23,10 @@ CoPilot told me why we cannot say fuck or shit about the real people.
 
 # Part 1 — Introduction: The Realm of the Hostel
 
+> **[website.md](https://github.com/tambetvali/TalesAndStoriesOfMeAndAnAI2/blob/main/FuckThePolice/website.md)**  
+> Website with interactive presentation of this whole story is given here.
+---
+
 In a narrow district of an unnamed coastal city, where the streets bent like old arguments and the air carried the scent of salt and bureaucracy, stood a small hostel. It was the kind of place where people arrived with ambitions and left with stories, and where the walls remembered more than the guests ever would.
 
 Among the temporary residents lived **Vince**, a quiet builder of ideas. He worked on a small startup—nothing grand, nothing loud, but something that breathed with potential. Two women, **Autumn** and **Iris**, often visited the common room to speak with him. They admired his patience, his clarity, his strange ability to make difficult things simple. People in the hostel whispered kindly about him:  
