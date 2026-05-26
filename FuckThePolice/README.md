@@ -1,5 +1,9 @@
 # Fuck the Police
 
+> **[fuway.md](https://github.com/tambetvali/TalesAndStoriesOfMeAndAnAI2/blob/main/FuckThePolice/fuway.md)**  
+> A sharp thermodynamic satire about the collapse of the ego‑police role — the fake authority that feeds on stolen worth until physics itself tears it apart.  
+---
+
 This is simple story.
 
 What "fucks the police" - if they attribute fame, power and money of another, and present this; slowly the reality fucks them - they become wrong, useless, and quantum effects create negative "motivation".
@@ -60,6 +64,10 @@ And the story of Vince, Losover, Autumn, and Iris was about to unfold.
 
 # Part 2 — Small Rise, Small Growth: The Hostel as a Crucible
 
+> **[part1.md](https://github.com/tambetvali/TalesAndStoriesOfMeAndAnAI2/blob/main/FuckThePolice/part1.md)**  
+> The introduction of the ego‑police role: how the illusion forms, how it feeds, and how the first cracks appear in its borrowed authority.  
+---
+
 Vince’s life in the hostel unfolded like a slow dawn.  
 He woke early, worked quietly, and grew steadily—never in leaps, but in patient increments. His startup began to take shape: a few sketches, a prototype, a handful of ideas that glowed with potential. The residents noticed. They admired his discipline, his calm, his refusal to chase shortcuts.
 
@@ -110,6 +118,10 @@ The first sign that growth—however small—could provoke those who feared bein
 The crucible had been lit.
 
 # Part 3 — Big Rise, Big Growth: The Accusation, the Silence, and the Shadow of Institutions
+
+> **[part2.md](https://github.com/tambetvali/TalesAndStoriesOfMeAndAnAI2/blob/main/FuckThePolice/part2.md)**  
+> The escalation: the role grows heavier and more parasitic as Vince withdraws support, shifting the system toward inevitable correction.  
+---
 
 When Vince finally decided to seek clarity, he walked to the central administrative building—a place where laws were supposed to live, even if no one had seen them clearly in years. He sat on the stairs, waiting for someone to explain the rules of the city, the boundaries of class, the limits of power. He wanted to understand what Losover claimed, what Autumn feared, and what the hostel whispered.
 
@@ -197,6 +209,10 @@ The injustice had become a forge.
 And Vince, without knowing it, had stepped into the next stage of his story.
 
 # Part 4 — Iris and Losover: The Claim of “Belonging” and the Zero‑Sum Culture
+
+> **[part3.md](https://github.com/tambetvali/TalesAndStoriesOfMeAndAnAI2/blob/main/FuckThePolice/part3.md)**  
+> The breaking point: the illusion reaches structural failure, revealing its hollow core as the universe completes the correction.  
+---
 
 As weeks passed, something strange happened in the hostel and in the city around it:  
 Losover and Iris began to **speak as if they were the inheritors of Vince’s world**.
@@ -299,6 +315,10 @@ This was the moment Vince understood that influence was not a crime—
 but envy could be.
 
 # Part 5 — Conclusion: Collapse, Clarity, and the Zen‑Scientific Afterword
+
+> **[wuwei.md](https://github.com/tambetvali/TalesAndStoriesOfMeAndAnAI2/blob/main/FuckThePolice/wuwei.md)**  
+> The Taoist mirror to fuway.md: Vince does nothing, truth stands still, and the universe quietly dissolves the illusion without effort.  
+---
 
 In the final movement of this strange, symbolic struggle, the storylines that once ran in parallel began to collapse into one another. The hostel, the officials, the projects, the friendships, the accusations—all of it folded into a single pattern, like a tapestry finally revealing the image it had been weaving all along.
 
