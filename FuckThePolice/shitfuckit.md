@@ -1,5 +1,8 @@
 # Fuck the shit down
 
+> [Poetry — Read First Poem: *On the Dissolution of Discord*](https://app-bxaefwzu80sh.appmedo.com/poetry):  
+> Begin with the opening piece of the cycle — a meditation on conflict dissolving, masks slipping, and the quiet physics of human discord.
+
 I lived in the place,  
 loved in the place,  
 worked in the place.  
