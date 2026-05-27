@@ -1,5 +1,7 @@
 # Trash class
 
+## Preface and intro
+
 Based on two poems and itself:
 - [Trash Classic](../FuckThePolice/trashclassic.md)
 - [Shit: Fuck it](../FuckThePolice/shitfuckit.md)
@@ -15,7 +17,7 @@ There is also the "angel" behind the scenes: she is using beautiful, accepted wo
       - but they say they won't believe anybody would use words against them,
         - yet the good words: they do good.
 
-## High Trash Class (White trash is just half way there)
+## Part 1: High Trash Class (White trash is just half way there)
 
 You say you are high class?
 - You are measured by money.
@@ -50,7 +52,7 @@ Game theory:
                     - It does not exist for you if you beat it with real police;
                     - It does not exists if you ask: you hear the graveyard laughter over your tiny, useless existence.
 
-## Shit head (Measures by atheos possibility, dead instinct of cause and effect with no goal based mind or logic)
+## Part 2: Shit head (Measures by atheos possibility, dead instinct of cause and effect with no goal based mind or logic)
 
 You have shit in your head?
 - You measure not your possibility, but mine.
@@ -91,7 +93,7 @@ You say I work for people and seem motivated;
 I feel like Nigerian child:
 - I look at you and say: you worthless shit.
 
-## Insane (Feels it's like a Movie)
+## Part 3: Insane (Feels it's like a Movie)
 
 I am fame. I am good. I am true.
 
@@ -123,7 +125,7 @@ You say you compare to me:
   - I say you beaten to face as in honour court, like we beat the superstars and responsible;
     - I say it feels like shit to be responsible like you, because it's a trash class in someones ass class.
 
-## Shit (Wants to be on their own)
+## Part 4: Shit (Wants to be on their own)
 
 ### Symptom 1: You feel like shit
 
@@ -187,7 +189,7 @@ I say:
     - because your muscle did fine contract, your stomach straight:
       - As you did shit out me.
 
-## Fuck It (Belonging)
+## Afterword: Fuck It (Belonging)
 
 You say you are long,
 - I say you are small man.
