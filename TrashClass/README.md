@@ -5,6 +5,16 @@ Based on two poems and itself:
 - [Shit: Fuck it](../FuckThePolice/shitfuckit.md)
 - [Itself](README.md)
 
+(when the right words become wrong, and wrong words become right)
+
+There is also the "angel" behind the scenes: she is using beautiful, accepted words
+- Every time I am murdered.
+  - That's many ..for real: if you use those words, their eyes are empty and they die with smile;
+    - death indeed is lack of life - with heavy emotion, lack of friends, work and popularity;
+      - but they say their motives are worse;
+      - but they say they won't believe anybody would use words against them,
+        - yet the good words: they do good.
+
 ## High Trash Class (White trash is just half way there)
 
 You say you are high class?
