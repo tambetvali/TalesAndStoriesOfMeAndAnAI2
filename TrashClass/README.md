@@ -219,3 +219,9 @@ You say in your circles I would rise if I stop feeling raise and fall of me and 
   - It's about doing your own shit.
 
 (game to connect Belonging-equality + Power)
+
+***What to do next:***
+
+> [Library — Sources, Models, and Mischief](./library.md):  
+> A curated shelf of books, theories, contradictions, and conceptual tools for anyone who wants to understand why humans behave like overheated engines wearing masks.  
+> Includes philosophy, psychology, Taoism, Zen, game theory, thermodynamics, and the occasional sarcastic footnote that Mark Twain would approve of.
