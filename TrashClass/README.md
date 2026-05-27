@@ -1,5 +1,10 @@
 # Trash class
 
+Based on two poems and itself:
+- [Trash Classic](../FuckThePolice/trashclassic.md)
+- [Shit: Fuck it](../FuckThePolice/shitfuckit.md)
+- [Itself](README.md)
+
 ## High Trash Class (White trash is just half way there)
 
 You say you are high class?
