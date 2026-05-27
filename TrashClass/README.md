@@ -2,6 +2,8 @@
 
 ## Preface and intro
 
+> [Website — Project Index](./website.md): placeholder for the future site hosting the full text, commentary, and add‑ons.
+
 Based on two poems and itself:
 - [Trash Classic](../FuckThePolice/trashclassic.md)
 - [Shit: Fuck it](../FuckThePolice/shitfuckit.md)
@@ -18,6 +20,8 @@ There is also the "angel" behind the scenes: she is using beautiful, accepted wo
         - yet the good words: they do good.
 
 ## Part 1: High Trash Class (White trash is just half way there)
+
+> [Part I — The Game of Class and Perception](./part1.md): the narrator first sees the system’s distorted rules and refuses to play the role assigned to him.
 
 You say you are high class?
 - You are measured by money.
@@ -53,6 +57,8 @@ Game theory:
                     - It does not exists if you ask: you hear the graveyard laughter over your tiny, useless existence.
 
 ## Part 2: Shit head (Measures by atheos possibility, dead instinct of cause and effect with no goal based mind or logic)
+
+> [Part II — Pressure, Reputation, and Collapse](./part2.md): the system overheats under its own performance demands while the narrator destabilizes it through non‑action.
 
 You have shit in your head?
 - You measure not your possibility, but mine.
@@ -95,6 +101,8 @@ I feel like Nigerian child:
 
 ## Part 3: Insane (Feels it's like a Movie)
 
+> [Part III — Moral Hallucination and Identity Failure](./part3.md): the system panics as its masks crack, revealing the instability beneath its self‑justifying identities.
+
 I am fame. I am good. I am true.
 
 You say it's insane?
@@ -126,6 +134,8 @@ You say you compare to me:
     - I say it feels like shit to be responsible like you, because it's a trash class in someones ass class.
 
 ## Part 4: Shit (Wants to be on their own)
+
+> [Part IV — Integration and Exit From the System](./part4.md): the narrator leaves the dominance matrix entirely as the system collapses under its own illusions.
 
 ### Symptom 1: You feel like shit
 
