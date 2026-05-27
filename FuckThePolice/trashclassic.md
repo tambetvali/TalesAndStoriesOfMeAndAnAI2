@@ -1,5 +1,8 @@
 # Trash Class
 
+> [Poetry — Read Second Poem: *On the Ephemeral Nature of Perceived Class*](https://app-bxaefwzu80sh.appmedo.com/poetry):  
+> Continue with the companion poem — a reflection on how “class” evaporates under scrutiny, leaving only the fragile stories people tell about themselves.
+
 In Spain I was told:  
 This man has right to beat women,  
 as he is the high class,  
