@@ -201,6 +201,8 @@ I say:
 
 ## Afterword: Fuck It (Belonging)
 
+> [Afterword — Fuck It (Belonging)](./general.md): closing reflections on belonging, clarity, and the narrator’s exit from the collapsing system.
+
 You say you are long,
 - I say you are small man.
 
