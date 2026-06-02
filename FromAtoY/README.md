@@ -1,0 +1,2 @@
+This folder contains it's whole trilogy, but I am randomly sometimes suceeding creating stories with an AI or alone:
+- I do not consider stories in this folder very important, nor the folder itself, but if a think I got looks cool, nice, and easy to read for myself, I add it here or to other story repos which have their main stories, still, emphasized in root folder and website; so this *is not a root folder*, this is the whole point.
